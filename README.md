@@ -1,7 +1,5 @@
 # My Personal Neural Network Project 🧠
 
-![Neural Network Banner](personal-neural-network-classifier)
-
 This is my personal implementation of a neural network classifier as I learn about machine learning. 
 
 ## 🔒 Project Status
